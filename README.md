@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Salloom99
-- 👀 I’m interested in Software Engineering and Game Development
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on some good stuff
-- 📫 How to reach me salem.domani@gmail.com
-
-<!---
-Salloom99/Salloom99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m Salem Domani, a Software engineer and a 4th year student in Syria - Damascus University in ITE college.
+I'm passionated about developing 2d games and large systems that needs to squeeze every cell of your brain to get it done, with some perfectionism I tweak code repeatedly trying to make it work perfectly and I always succeed.
+Here is a list that describes me:
+- Game Developer
+- Web Developer
+- Software Engineer
+- Otaku
