@@ -1,3 +1,4 @@
+# About me
 ```python
 from datetime import date
 from damascus_university.ite_college import FourthYearStudent
@@ -46,3 +47,5 @@ class Me(FourthYearStudent):
         return 'salem.domani@gmail.com'
 
 ```
+# More Info
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Salloom99&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true&custom_title=My%20Github%20stats%20:)](https://github.com/anuraghazra/github-readme-stats)
