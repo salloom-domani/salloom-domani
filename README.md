@@ -25,9 +25,9 @@ class Me(FourthYearStudent):
     @property
     def experience(self):
         return [
-            two_years(of='.NET'),
-            one_year(of='Django'),
-            decent(of='React.js'),
+            two_years(of='Django'),
+            one_year(of='React.js'),
+            decent(of='Docker'),
         ]
 
     @property
